@@ -1,6 +1,6 @@
 ---
 title: "Movie databse QM project"
-author: "1. Nguyen Manh Luu \t2.Vo Thi Ha Giang\t3. Michael Seyram Morkly"
+author: Vo Thi Ha Giang
 date: "January 4, 2017"
 output: word_document
 ---
